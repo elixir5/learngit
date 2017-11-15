@@ -5,4 +5,4 @@ Git is free software.
 再看看
 github修改会怎样呢
 try again
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
