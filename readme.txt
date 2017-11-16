@@ -6,4 +6,5 @@ Git is  free software.
 github修改会怎样呢
 try again
 Creating a new branch is quick & simple.
+Switched to a new branch 'dev'
 
