@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is  free software.
+Git is a free software.
 继续看分支管理
 看看是否乱码
 再看看
